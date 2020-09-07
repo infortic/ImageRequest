@@ -1,4 +1,4 @@
-Esta API é apenas um mock para testar umas das funcionalidades da API "ProcessClearDump"
+Esta API é apenas um mock para testar umas das funcionalidades da API "ProcessClearDump", a mesma pode ser acessada no seguinte link https://github.com/infortic/clenarDump
 
 ### Pré-requisitos
 * Java 8
